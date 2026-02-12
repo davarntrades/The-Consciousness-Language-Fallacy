@@ -24,6 +24,20 @@
 
 **This is what the field implicitly believes.**
 
+-----
+
+### The Standard for Exposing Fallacies
+
+> **“A fallacy is exposed when its implications become morally, empirically, and mathematically impossible to defend.”**
+
+**The consciousness = language assumption collapses on all three fronts:**
+
+- **Morally:** Denies consciousness to babies, animals, non-verbal humans
+- **Empirically:** Contradicts observable reality of infant awareness, animal experience
+- **Mathematically:** C ⊥ L proves they’re orthogonal dimensions
+
+**This document demonstrates the complete collapse.**
+
 </div>
 
 -----
